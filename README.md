@@ -4,7 +4,8 @@ simple flutter e-commerec app.
 
 ## Featuresd
 
-- home page with ads banner controlled from fairbase real time data base , and a notification icon tat lead tothe notifications page wich have a red dot to detect if there a new notificationwich and list of product .
+- home page with ads banner controlled from fairbase real time data base (list of ads everyadd have key called isShowAd(tru => show ,false =>hide)and another key called
+  (showAds) to show or hide all ads at the ame time  , and a notification icon tat lead tothe notifications page wich have a red dot to detect if there a new notificationwich and list of product .
 - notification page wich show all new notification which saved localy in hive database.
 - from products list in home you kan show product details screen where you can choose quantnty of product and add to cart .
 - cart screen where you can controll products quantty wich saved in hive locala database (add ,or  delete )and then select your wallet or add new wallet to confirm order and if you do not confirm order and set app to background after three minuts you will recive a notification to remind confirm your order .

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "231957764806",
+    "firebase_url": "https://mahmoud-task-91156-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mahmoud-task-91156",
+    "storage_bucket": "mahmoud-task-91156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231957764806:android:4ba5fab520dab2d1c8d5c7",
+        "android_client_info": {
+          "package_name": "com.example.mahmoud_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLIqqxVpDLwILLsB7CQsh5NVwa8iVf9l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
